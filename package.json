@@ -1,14 +1,14 @@
 {
-  "name": "Discord Bot Template",
+  "name": "urn-bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js"
   },
-  "keywords": ["discord", "bot"],
+  "keywords": ["discord", "bot", "speedrunning"],
   "author": "Jonathan Yeagy",
   "license": "ISC",
-  "description": "Template for building Discord Bots",
+  "description": "Discord Bot For Tracking Speedruns",
   "dependencies": {
     "discord.js": "^14.20.0",
     "dotenv": "^17.2.1"
