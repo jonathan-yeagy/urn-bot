@@ -1,8 +1,8 @@
 version: "3.8"
 services:
   emoji-archiver:
-    container_name: discord-bot-template
-    image: ghcr.io/jonathan-yeagy/discord-bot-template:latest
+    container_name: urn-bot
+    image: ghcr.io/jonathan-yeagy/urn-bot:latest
     restart: always
     environment:
       - NODE_ENV=production
