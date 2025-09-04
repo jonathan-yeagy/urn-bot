@@ -1,0 +1,16 @@
+{
+  "name": "Discord Bot Template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["discord", "bot"],
+  "author": "Jonathan Yeagy",
+  "license": "ISC",
+  "description": "Template for building Discord Bots",
+  "dependencies": {
+    "discord.js": "^14.20.0",
+    "dotenv": "^17.2.1"
+  }
+}
