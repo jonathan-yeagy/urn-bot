@@ -1,6 +1,6 @@
-# Discord Bot Template
+# urn-bot
 
-Discord Bot template for making Node.js Discord Bots
+Discord Bot for tracking Speedruns
 
 ## Environment Variables
 
