@@ -22,7 +22,7 @@ bot.on('clientReady', async () => {
   bot.user.setStatus('online');
   
 
-  bot.user.setActivity('your activity', { type: ActivityType.Watching });
+  bot.user.setActivity('your speedruns', { type: ActivityType.Watching });
 
   sendOnlineEmbed(bot);
 });
